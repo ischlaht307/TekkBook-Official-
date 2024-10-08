@@ -1,0 +1,11 @@
+body
+{
+    padding: 0px 0;
+    font-size: 100%;
+    background-color: red;
+}
+
+.tabs{
+    color: green;
+    border: 5px solid green;
+}

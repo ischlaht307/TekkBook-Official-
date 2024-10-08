@@ -1,0 +1,1 @@
+{"theme":{"mode":"light","primary":"darkred","secondary":"white"},"defaults":{"start-page":"new"},"security":{"enabled":false,"lock-type":"none","lock-at-startup":false,"lock-onPause":false},"auto-save":false,"primary-language":"javascript","studio-text":{"size":"1.0em","syntax":"javascript","indent-to-spaces":true}}
